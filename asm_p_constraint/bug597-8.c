@@ -3,6 +3,6 @@ int u;
 int main(void)
 {
   void * ret__;
-  asm volatile ("mov" "q ""%%""gs"":%P" "1"",%0" : "=r" (ret__) : "p" (p+u));
+  asm volatile ("mov %" "1"",%0" : "=r" (ret__) : "p" (p+u));
   return 0;
 }
