@@ -1,3 +1,4 @@
+//TAG:kernel
 const char *p="abdce";
 
 int main(void)

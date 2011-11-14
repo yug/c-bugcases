@@ -1,3 +1,5 @@
+//TAG:kernel
+//NOEXEC
 int main(void)
 {
   void * ret__;

@@ -1,3 +1,4 @@
+//TAG:kernel
 struct T {
   int u;
   int v;

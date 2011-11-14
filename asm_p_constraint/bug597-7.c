@@ -1,3 +1,4 @@
+//TAG:kernel
 int p[600];
 int main(void)
 {

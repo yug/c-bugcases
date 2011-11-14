@@ -1,5 +1,6 @@
+//TAG:kernel
 int p[600];
-int u;
+int u=30;
 int main(void)
 {
   void * ret__;

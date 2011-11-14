@@ -1,3 +1,4 @@
+//TAG:kernel
 void *  per_cpu__current_task;
 
 int main(void)

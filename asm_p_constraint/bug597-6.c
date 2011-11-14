@@ -1,3 +1,4 @@
+//TAG:kernel
 int main(void)
 {
   void * ret__;
